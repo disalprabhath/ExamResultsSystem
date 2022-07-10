@@ -1,0 +1,16 @@
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\bin\Debug\ExamResultsSystem.exe.config
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\bin\Debug\ExamResultsSystem.exe
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\bin\Debug\ExamResultsSystem.pdb
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.csprojAssemblyReference.cache
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.Properties.Resources.resources
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.csproj.GenerateResource.cache
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.csproj.CoreCompileInputs.cache
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.exe
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.pdb
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\bin\Debug\Reguser.mdf
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\bin\Debug\Reguser_log.ldf
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.login.resources
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.main.resources
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.register.resources
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.Admin.resources
+C:\Users\Disal Prabhath\source\repos\ExamResultsSystem\ExamResultsSystem\obj\Debug\ExamResultsSystem.Student.resources
